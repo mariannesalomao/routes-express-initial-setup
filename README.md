@@ -1,5 +1,7 @@
 # EXPRESSJS
 
+- Projeto com separação de rotas, apenas os controllers não foram separados e configurados.
+
 ## COMMANDS
 
 ```shell
